@@ -1,0 +1,7 @@
+path: C:/Users/PAUL/OneDrive - ESME/Documents/Pusan_cour/ia programming/final_project/
+train: images/train
+val: images/val
+
+names:
+  0: watch
+
