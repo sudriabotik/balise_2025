@@ -1,3 +1,6 @@
 [submodule "UYLE"]
 	path = UYLE
 	url = https://github.com/BOX268/UYLE.git
+[submodule "balise_rasberry_2025"]
+	path = balise_rasberry_2025
+	url = https://github.com/sudriabotik/balise_rasberry_2025.git
