@@ -1,7 +1,6 @@
-path: C:/Users/PAUL/OneDrive - ESME/Documents/Pusan_cour/ia programming/final_project/
-train: images/train
-val: images/val
+train: C:/Users/PAUL/OneDrive - ESME/Documents/botique/2025/balise_2025/data_set_training_debug/images/train
+val: C:/Users/PAUL/OneDrive - ESME/Documents/botique/2025/balise_2025/data_set_training_debug/images/val
+test: C:/Users/PAUL/OneDrive - ESME/Documents/botique/2025/balise_2025/data_set_training_debug/images/test
 
-names:
-  0: watch
-
+nc: 2
+names: ['canette', 'planche']

@@ -1,0 +1,6 @@
+fichier augmentation_image :
+pip install opencv-python torchvision pillow tqdm
+
+we use it with the terminal : 
+python ton_script.py --input_dir ./images_base --output_dir ./images_augmentees --n 6
+Cela génère 6 images augmentées pour chaque image originale, donc ×6 ton dataset.
